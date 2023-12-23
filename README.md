@@ -10,3 +10,6 @@ Here's a short description of MNIST handwritten digit recognition using neural n
 
 # Accuracy:
 Well-trained neural networks can achieve over 99% accuracy on MNIST.
+
+![images](https://github.com/AnshPandey08/MNIST-dataset-Handwritten-digits-Recognition-using-Neural-Network/assets/99656841/d0213f72-b026-4a9d-a5e9-367c7e01e058)
+
